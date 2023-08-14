@@ -1,0 +1,34 @@
+_repo: The-new-buggy_71245
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, Madeline
+    aliases:
+    - Aunt Hattie
+    - Baker, Harriette Newell Woods
+    - Hattie, Aunt
+    birthdate: 1815
+    deathdate: 1893
+    gutenberg_agent_id: '31136'
+    url: http://www.gutenberg.org/2009/agents/31136
+    wikipedia: https://en.wikipedia.org/wiki/Harriette_Newell_Woods_Baker
+description: ''
+gutenberg_issued: '2023-07-21'
+identifiers:
+  gutenberg: '71245'
+  lccn: '2015661000'
+language: en
+pgterms:marc905: 20230718072919leslie
+pgterms:marc906: '1871'
+pgterms:marc907: US
+publication_note: '  $aUnited States :$bHenry A. Young & Co., $c1871.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Happy home stories for boys; V.
+subjects:
+- !lcsh 'Generosity -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The new buggy
+url: http://www.gutenberg.org/ebooks/71245
